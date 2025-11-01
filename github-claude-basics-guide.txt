@@ -1,0 +1,54 @@
+# GitHub and Claude Code: Basics Guide
+
+## What is GitHub?
+GitHub is a cloud-based platform for version control and collaboration. It allows developers to:
+- Store and track code changes over time
+- Collaborate with team members on projects
+- Review code through pull requests
+- Manage issues and project tasks
+
+## What is Claude Code?
+Claude Code is an AI-powered CLI assistant that helps with software development tasks:
+- Writing and editing code
+- Debugging and fixing errors
+- Explaining codebases
+- Automating repetitive tasks
+- Git operations and version control
+
+## How They Work Together
+
+Claude Code integrates seamlessly with GitHub by:
+1. Creating and managing branches automatically
+2. Committing changes with descriptive messages
+3. Pushing code to GitHub repositories
+4. Helping with pull request creation
+5. Analyzing issues and implementing solutions
+
+## Key Benefits
+
+- **Faster Development**: Claude Code automates routine tasks while GitHub manages your code
+- **Better Collaboration**: GitHub tracks changes, Claude Code helps implement them
+- **Code Quality**: Claude Code assists with best practices, GitHub enables peer review
+- **Version Safety**: Work on branches, test changes, then merge confidently
+- **Issue Resolution**: Claude Code can read GitHub issues and implement fixes directly
+
+## Common Use Cases
+
+1. **Bug Fixes**: Claude Code analyzes code, fixes bugs, commits, and pushes to GitHub
+2. **Feature Development**: Create branches, implement features, and prepare pull requests
+3. **Code Review**: Use GitHub PRs with Claude Code's assistance for code improvements
+4. **Documentation**: Generate docs with Claude Code, version control with GitHub
+5. **Refactoring**: Safely restructure code on branches before merging to main
+
+## Typical Workflow
+
+1. Clone a GitHub repository
+2. Use Claude Code to make changes (create features, fix bugs, etc.)
+3. Claude Code commits changes with clear messages
+4. Push to GitHub branch
+5. Create pull request for team review
+6. Merge to main branch after approval
+
+---
+
+This combination makes development faster, safer, and more collaborative!
